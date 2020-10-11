@@ -193,7 +193,7 @@ async def whatsthis(ctx, thing):
         await ctx.send("Oh snap, I need to learn that")
 
 
-client.run('MzUwNjExNzMwOTE4ODAxNDE4.XuETWQ.UyHyrpZm5LSk5sA19-ZsQETP3iU')
+client.run('')
 
 #STUFF TO ADD
 #Image recognition
